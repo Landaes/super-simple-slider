@@ -1,5 +1,5 @@
 # super-simple-slider
-un bonito slider, customizable que lanza eventos por cada acción (requiere jQuery y TweenLite)
+Un super simple slider, customizable que lanza eventos por cada acción (requiere jQuery y TweenLite)
 
 Super simple y bonito slider (de acuerdo a tu habilidad para customizarlo).
 Para inicializar basta esto:
