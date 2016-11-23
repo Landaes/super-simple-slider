@@ -2,6 +2,7 @@
 Un super simple slider, customizable que lanza eventos por cada acción (requiere jQuery y TweenLite)
 
 Super simple y bonito slider (de acuerdo a tu habilidad para customizarlo).
+
 Para inicializar basta esto:
 Slider.init("#contenedor");
 
@@ -23,4 +24,6 @@ var App = {
     }
 };
 
-/*Para eersiones futuras contemplo implementar un "update width" cuando el contenedor del slider cambie de tamaño*/
+Ejecuten lo anterior y tendran 5 sliders con distintos looks y valores
+
+/*Para versiones futuras contemplo implementar un "update width" cuando el contenedor del slider cambie de tamaño*/
