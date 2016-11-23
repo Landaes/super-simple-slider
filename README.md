@@ -23,3 +23,4 @@ var App = {
     }
 };
 
+/*Para eersiones futuras contemplo implementar un "update width" cuando el contenedor del slider cambie de tamaño*/
