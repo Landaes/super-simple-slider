@@ -23,7 +23,7 @@ var App = {
         console.log("CUSTOM id: ",e.detail.id);
     }
 };
-
+App.init();
 Ejecuten lo anterior y tendran 5 sliders con distintos looks y valores
 
 /*Para versiones futuras contemplo implementar un "update width" cuando el contenedor del slider cambie de tamaño*/
